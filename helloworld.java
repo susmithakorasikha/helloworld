@@ -7,4 +7,4 @@ public class HelloWorld
 }
 
 
-SET PATH=%PATH%;C:\Program Files (x86)\Java\jdk1.6.0_05\bin
+SET PATH=%PATH%;C:\Program Files (x86)\jdk-21.0.6_windows-x64_bin\jdk-21.0.6\bin
